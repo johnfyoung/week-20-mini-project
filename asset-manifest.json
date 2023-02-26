@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/week-20-mini-project/static/css/main.9691e1f7.css",
+    "main.js": "/week-20-mini-project/static/js/main.a484c013.js",
+    "index.html": "/week-20-mini-project/index.html",
+    "main.9691e1f7.css.map": "/week-20-mini-project/static/css/main.9691e1f7.css.map",
+    "main.a484c013.js.map": "/week-20-mini-project/static/js/main.a484c013.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9691e1f7.css",
+    "static/js/main.a484c013.js"
+  ]
+}
